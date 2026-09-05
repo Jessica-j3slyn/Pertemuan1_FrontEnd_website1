@@ -35,10 +35,10 @@ Fungsi dari ke empat tag tsb :
 `<footer>` saya letakkan di paling bawah, berisi informasi seperti hak cipta sederhana.
 
 5. Sebutkan satu perubahan CSS yang Anda lakukan pada latihan.
-Salah satu contoh perubahan yang saya lakukan adalah mengubah warna latar belakang (background) pada bagian header dan footer, dari yang semula 
-#eeeeee di contoh dosen, saya ganti menjadi #dddddd agar sedikit lebih gelap.
-Selain itu saya juga menambahkan properti color di beberapa bagian yang sebelumnya tidak ada di contoh,
-seperti warna teks pada link navigasi supaya lebih menyatu dengan latar belakang gelap di bagian menu.
+Salah satu contoh perubahan yang saya lakukan: mengubah warna latar belakang (background) pada bagian header dan footer. Header saya ubah dari   
+#eeeeee di contoh dosen, menjadi 
+#cdbbe8 (warna lavender), sedangkan footer saya ubah menjadi 
+#dddddd agar sedikit lebih gelap dari warna aslinya. Selain itu saya juga menambahkan properti color di beberapa bagian yang sebelumnya tidak ada di contoh, seperti warna teks pada link navigasi supaya lebih menyatu dengan latar belakang ungu tua di bagian menu.
 
 Refleksi
 Dari praktik ini, bagian yang menurut saya sudah cukup saya kuasai adalah membuat struktur dasar HTML dan menghubungkannya dengan file CSS eksternal. 
