@@ -49,4 +49,18 @@ misalnya  mengatur layout menggunakan flexbox atau grid, karena di latihan ini s
 
 Hasil Akhir Web: 
 
-<img width="1288" height="1081" alt="image" src="https://github.com/user-attachments/assets/1827312d-6935-402e-844d-e59d068d053c" />
+<img width="802" height="312" alt="image" src="https://github.com/user-attachments/assets/c27fc69f-7399-456a-9ea4-449061784015" />
+
+
+
+Check Requirement :
+ Header  —  judul halaman dan subtitle 
+ Navigation (menu)  — tiga link: Home, Profile, Contact
+ Article  —  nama, program studi, deskripsi singkat, tiga keahlian dan satu link
+ Footer  —  keterangan hak cipta
+ External CSS  — file style.css terhubung lewat tag <link>
+ properti CSS  — padding, text-align, background, color, max-width, margin
+ bagian style dimodifikasi  — perubahan padding header,	background header,	color header,padding nav,	background nav,	color nav a, max-width article,	padding footer,	background footer,	color footer.
+ Tampilan satu kolom — semua bagian tersusun vertikal dari atas ke bawah
+ index.html dapat dibuka di browser — sudah diuji dan berhasil muncul
+ Struktur HTML dasar  — mencakup <!DOCTYPE html>, <html>, <head>, dan <body> yang lengkap
