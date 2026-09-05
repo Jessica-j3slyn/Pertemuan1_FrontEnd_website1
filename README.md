@@ -75,3 +75,5 @@ Check Requirement :
  -index.html dapat dibuka di browser — sudah diuji dan berhasil muncul
  
  -Struktur HTML dasar  — mencakup `<!DOCTYPE html>`, `<html>`, `<head>`, dan `<body>` yang lengkap
+
+ - Penjelasan Kode — dijelaskan pada bagian Post-Test & Refleksi di atas
