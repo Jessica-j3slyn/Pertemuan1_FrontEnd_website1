@@ -55,13 +55,23 @@ Hasil Akhir Web:
 
 
 Check Requirement :
+ 
  -Header  —  judul halaman dan subtitle 
+ 
  -Navigation (menu)  — tiga link: Home, Profile, Contact
+ 
  -Article  —  nama, program studi, deskripsi singkat, tiga keahlian dan satu link
+ 
  -Footer  —  keterangan hak cipta
+ 
  -External CSS  — file style.css terhubung lewat tag `<link>`
+ 
  -properti CSS  — padding, text-align, background, color, max-width, margin
+ 
  -bagian style dimodifikasi  — perubahan padding header,	background header,	color header,padding nav,	background nav,	color nav a, max-width article,	padding footer,	background footer,	color footer.
+ 
  -Tampilan satu kolom — semua bagian tersusun vertikal dari atas ke bawah
+ 
  -index.html dapat dibuka di browser — sudah diuji dan berhasil muncul
+ 
  -Struktur HTML dasar  — mencakup `<!DOCTYPE html>`, `<html>`, `<head>`, dan `<body>` yang lengkap
