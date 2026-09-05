@@ -1,20 +1,20 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: #333333;
+    color: #432a5c;
 }
 
 header {
     padding: 40px;
     text-align: center;
-    background: #dddddd;
+    background: #cdbbe8;
     color: #1a1a1a;
 }
 
 nav {
     padding: 20px;
     text-align: center;
-    background: #444444;
+    background: #553875;
 }
 
 nav a {
