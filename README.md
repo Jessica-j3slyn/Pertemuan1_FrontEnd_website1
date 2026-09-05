@@ -76,4 +76,4 @@ Check Requirement :
  
  -Struktur HTML dasar  — mencakup `<!DOCTYPE html>`, `<html>`, `<head>`, dan `<body>` yang lengkap
 
- - Penjelasan Kode — dijelaskan pada bagian Post-Test & Refleksi di atas
+ -Penjelasan Kode — dijelaskan pada bagian Post-Test & Refleksi di atas
